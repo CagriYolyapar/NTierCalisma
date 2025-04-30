@@ -11,7 +11,7 @@ namespace Project.ENTITIES.Models
         public int Id { get; set; }
         public DateTime CreatedDate { get; set; }
 
-        public DateTime? UpdatedDate { get; set; } 
+        public int UpdatedDate { get; set; } 
         
         // Bir şeyler  - Deniz
 
