@@ -13,5 +13,8 @@ namespace Project.ENTITIES.Models
 
         public DateTime? UpdatedDate { get; set; }   
 
+
+        //Bir şeyler - Cagrı
+
     }
 }
