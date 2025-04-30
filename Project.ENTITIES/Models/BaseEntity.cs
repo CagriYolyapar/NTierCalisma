@@ -15,6 +15,9 @@ namespace Project.ENTITIES.Models
         
         // Bir şeyler  - Deniz
 
+
+        //Bir şeyler - Cagrı
+
         // Merhaba
 
     }
